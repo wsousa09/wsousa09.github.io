@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #0b6769;
 }
 
 .resume-contents {
@@ -21,7 +21,7 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: hsl(182, 89%, 15%);
 }
 
 .right-section {
@@ -47,7 +47,7 @@ body {
 }
 
 .name {
-    color: #D6DBDF;
+    color: hsl(51, 77%, 61%);
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
